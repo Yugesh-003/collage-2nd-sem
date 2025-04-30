@@ -1,0 +1,23 @@
+OOPs Concept questions:
+
+*Class & Object : 
+  1. To illustrate class & obj by using student class
+
+*Inheritance:
+1.To illustrate single inheritance by using base classes as academic and derived class as student profile 
+2.To illustrate multiple inheritance base class are academic & extra curricular 
+3.To illustrate multilevel inheritance by using I DSA as first base class , II DSA as first derived class , III DSA as second derived class from III DSA best out going class as a base class 
+4.To illustrate hierarchical concept student details as base class from student details, personal details to academic details area derived class 
+5.To illustrate hybrid inheritance dept of CS as base class - SSS & DSA as derived class create annual winner from SSS & DSA derived class 
+
+*Polymorphism:
+1.To illustrate poly (Over loading) by using area of  shape 
+2.To illustrate poly (Over riding) to calculate marks
+
+*Encapsulation:
+1.To illustrate encapsulation (private) by using calculate are of shapes
+2.public -volume of cylinder 
+3.protected- vol.of .cone
+
+*Abstraction:
+1.To illustrate abstract based on fruits or food ( any)
