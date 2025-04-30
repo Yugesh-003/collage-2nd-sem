@@ -1,0 +1,176 @@
+[
+  {
+    "title": "SAB",
+    "artist": "Paal Dabba",
+    "poster": "../images/0.jpg",
+    "link": "../music/0.mp3"
+  },
+  {
+    "title": "170CM",
+    "artist": "Paal Dabba",
+    "poster": "../images/1.jpg",
+    "link": "../music/1.mp3"
+  },
+  {
+    "title": "Kadhaippoma",
+    "artist": "Leon James, Sid Sriram",
+    "poster": "../images/2.jpg",
+    "link": "../music/2.mp3"
+  },
+  {
+    "title": "Thaensudare",
+    "artist": "Sean Roldan",
+    "poster": "../images/3.jpg",
+    "link": "../music/3.mp3"
+  },
+  {
+    "title": "DtMF",
+    "artist": "Bad Bunny",
+    "poster": "../images/4.jpg",
+    "link": "../music/4.mp3"
+  },
+  {
+    "title": "GBU Theme",
+    "artist": "G. V. Prakash Kumar",
+    "poster": "../images/5.jpg",
+    "link": "../music/5.mp3"
+  },
+  {
+    "title": "Kaathu Kaathu",
+    "artist": "M Ghibran, Gold devaraj",
+    "poster": "../images/6.jpg",
+    "link": "../music/6.mp3"
+  },
+  {
+    "title": "Kanave Nee Naan",
+    "artist": "Sooraj Santhosh",
+    "poster": "../images/7.jpg",
+    "link": "../music/7.mp3"
+  },
+  {
+    "title": "Oru Santhana Kaattu",
+    "artist": "Ilaiyaraaja, S. Janaki",
+    "poster": "../images/8.jpg",
+    "link": "../music/8.mp3"
+  },
+  {
+    "title": "Paththavaikkum",
+    "artist": "Anirudh Ravichander, Deepthi Suresh, Vignesh Shivan",
+    "poster": "../images/9.jpg",
+    "link": "../music/9.mp3"
+  },
+  {
+    "title": "Kannai Kasakkum",
+    "artist": "S. P. Balasubrahmanyam",
+    "poster": "../images/10.jpg",
+    "link": "../music/10.mp3"
+  },
+  {
+    "title": "Kandangi Kandangi",
+    "artist": "Vijay, Shreya Ghoshal",
+    "poster": "../images/11.jpg",
+    "link": "../music/11.mp3"
+  },
+  {
+    "title": "Rathiriyil Paadum",
+    "artist": "Malaysia Vasudevan, Mano, Minmini",
+    "poster": "../images/12.jpg",
+    "link": "../music/12.mp3"
+  },
+  {
+    "title": "Deeyaalo Deeyalo",
+    "artist": "Oranthanadu Gopu",
+    "poster": "../images/13.jpg",
+    "link": "../music/13.mp3"
+  },
+  {
+    "title": "Nee Yeppo Pulla",
+    "artist": "Alphons Joseph",
+    "poster": "../images/14.jpg",
+    "link": "../music/14.mp3"
+  },
+  {
+    "title": "Yelai Imayamalai",
+    "artist": "Manickka Vinayakam",
+    "poster": "../images/15.jpg",
+    "link": "../music/15.mp3"
+  },
+  {
+    "title": "Poo Nee Poo",
+    "artist": "Sathya Prakash, Harish Swaminathan",
+    "poster": "../images/16.jpg",
+    "link": "../music/16.mp3"
+  },
+  {
+    "title": "Thenpaandi Cheemayile",
+    "artist": "Ilaiyaraaja, Kamal Haasan",
+    "poster": "../images/17.jpg",
+    "link": "../music/17.mp3"
+  },
+  {
+    "title": "Urugi Urugi",
+    "artist": "Anand Aravindakshan",
+    "poster": "../images/18.jpg",
+    "link": "../music/18.mp3"
+  },
+  {
+    "title": "Pogum Paadhai",
+    "artist": "Uthara Unnikrishnan",
+    "poster": "../images/19.jpg",
+    "link": "../music/19.mp3"
+  },
+  {
+    "title": "Antha Nilavathan",
+    "artist": "Ilaiyaraaja, Chitra",
+    "poster": "../images/20.jpg",
+    "link": "../music/20.mp3"
+  },
+  {
+    "title": "Maatikkinaaru Orutharu",
+    "artist": "Leon James, Gana Apellow",
+    "poster": "../images/21.jpg",
+    "link": "../music/21.mp3"
+  },
+  {
+    "title": "Hey Minnale",
+    "artist": "G. V. Prakash Kumar, Haricharan, Shweta Mohan",
+    "poster": "../images/22.jpg",
+    "link": "../music/22.mp3"
+  },
+  {
+    "title": "Kannadi Poove",
+    "artist": "Santhosh Narayanan",
+    "poster": "../images/23.jpg",
+    "link": "../music/23.mp3"
+  },
+  {
+    "title": "Ariyadha Vayasu",
+    "artist": "Ilaiyaraja",
+    "poster": "../images/24.jpg",
+    "link": "../music/24.mp3"
+  },
+  {
+    "title": "New Track 1",
+    "artist": "Unknown Artist",
+    "poster": "../images/25.jpg",
+    "link": "../music/25.mp3"
+  },
+  {
+    "title": "New Track 2",
+    "artist": "Unknown Artist",
+    "poster": "../images/26.jpg",
+    "link": "../music/26.mp3"
+  },
+  {
+    "title": "New Track 3",
+    "artist": "Unknown Artist",
+    "poster": "../images/27.jpg",
+    "link": "../music/27.mp3"
+  },
+  {
+    "title": "New Track 4",
+    "artist": "Unknown Artist",
+    "poster": "../images/28.jpg",
+    "link": "../music/28.mp3"
+  }
+]

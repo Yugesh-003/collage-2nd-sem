@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Player</title>
+    <link rel="stylesheet" href="upload.css" />
+</head>
+<body>
+    <!-- Upload Section -->
+    <div id="uploadForm">
+        <h3>Upload a Song</h3>
+        <input type="text" id="title" placeholder="Song Title" />
+        <input type="text" id="artist" placeholder="Artist" />
+        <label for="posterUpload">Upload Poster:</label>
+        <input type="file" id="posterUpload" accept="image/*" />
+        <label for="musicUpload">Upload Song:</label>
+        <input type="file" id="musicUpload" accept="audio/*" />
+        <button type="submit" id="uploadButton">Upload</button>
+    </div>
+    <!-- User Uploaded Songs -->
+    <h2>Uploaded Songs</h2>
+    <div id="userSongs"></div>
+
+    <!-- Audio Player -->
+    <audio id="audioPlayer" controls></audio>
+
+    <!-- ✅ Load script AFTER elements are available -->
+    <script src="upload.js"></script>
+</body>
+</html>
