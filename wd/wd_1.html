@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      img {
+        height: auto;
+        width: 250px;
+        padding: 10px;
+      }
+      .container{
+        display: flex;
+        border: 2px solid;
+        padding: 10px;
+        font-size: large;
+      }
+      .container:nth-child(2){
+        justify-content: center;
+      }
+      .container:nth-child(3) {
+        flex-direction: row-reverse;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img src="cat.jpg" alt="pic" />
+      <p>this is a sample text....</p>
+    </div>
+    <div class="container">
+      <p>Second div: Text on the left</p>
+      <img src="cat.jpg" alt="pic" />
+      <p>and on the right of the centered image.</p>
+    </div>
+    <div class="container">
+      <img src="cat.jpg" alt="pic" />
+      <p>
+        Third div: Text occupies the remaining space before the image on the
+        right.
+      </p>
+      
+    </div>
+  </body>
+</html>
